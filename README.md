@@ -5,6 +5,6 @@
 
 I build full-stack applications.
 
-Based in Melbourne, shipping software fueled by creativity.
+Based in Melbourne, shipping software fuelled by creativity.
 
 Learn more about my work: [brucehh.dev](https://www.brucehh.dev/)
