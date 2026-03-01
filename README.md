@@ -5,4 +5,4 @@
 
 I build full-stack applications, accidentally create bugs, then heroically fix the wrong ones first. Based in Melbourne, shipping software fueled by absolute curiosity and confusion.
 
-Learn more about my work: [brucehh.dev]([https://factorhouse.io/](https://www.brucehh.dev/))
+Learn more about my work: [brucehh.dev](https://www.brucehh.dev/)
